@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Q Cheng
+- 👋 Hi
 - 👀 I’m interested in Statistic Inference and Simulation 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on causal inference and longitudinal studies.
